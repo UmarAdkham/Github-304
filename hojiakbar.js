@@ -1,1 +1,1 @@
-console.log("kech qolaman NB qoymang")
+console.log("firdaviz jigar")
