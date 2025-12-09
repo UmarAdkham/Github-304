@@ -10,4 +10,4 @@ console.log(
     `
 );
 
-// This is Otabek's commit
+// This is Muhammadalis's commit
