@@ -1,7 +1,2 @@
-console.log(
-  "Yesterday is history. Tomorrow is a mystery. Today is a gift. That is why it is called the present. Eleanor Roosevelt"
-);
-console.log("Если ты первый, ты первый! ");
-console.log("Who cares, a?, who cares, today today, smaaash ");
-
-// This is Otabek's commit
+console.log("Salomaaat!");
+console.log("Why are you looking at my code?");
