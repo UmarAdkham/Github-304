@@ -1,3 +1,3 @@
 console.log('from Firdavs')
-
-// This is Otabek's commit
+console.log('Edit N.1');
+// This is NOT Otabek's commit
