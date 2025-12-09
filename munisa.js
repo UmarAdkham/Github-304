@@ -1,3 +1,1 @@
-console.log('Bu munisaning fayli');
-
-// This is Otabek's commit
+console.log('Good Afternoon');

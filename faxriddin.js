@@ -1,3 +1,1 @@
-console.log("El anga shafiq-u I dunno your gap");
-
-// This is Otabek's commit
+console.log("El anga shafiq-u mehribon bo‘lmas emish.");

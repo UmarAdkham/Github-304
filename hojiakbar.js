@@ -1,3 +1,1 @@
-console.log("firdaviz jigar")
-
-// This is Otabek's commit
+console.log("Hello, Hoji Akbar!");
